@@ -1,9 +1,9 @@
 # Quiz Application
 
 ## Intern Details
-**Name:** Varshini Baskaran
+**Name:** Varshini B
 
-**Intern ID:** YOUR_INTERN_ID
+**Intern ID:** CITS2271
 
 **Company:** CodeTech IT Solutions
 
